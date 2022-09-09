@@ -1,2 +1,3 @@
 :3000 
-file_server browse
+root * /workspace/mnt/data--capsule-myqihn-x
+file_server
