@@ -1,3 +1,4 @@
 :3000 
+encode zstd gzip
 root * /workspace/mnt/data--capsule-myqihn-x
 file_server browse
